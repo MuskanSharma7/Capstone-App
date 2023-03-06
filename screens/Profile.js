@@ -10,6 +10,7 @@ import {
   Pressable,
   ScrollView,
 } from "react-native";
+
 import { validateEmail } from "../utils";
 import { AuthContext } from "../contexts/AuthContext";
 import Checkbox from "expo-checkbox";
